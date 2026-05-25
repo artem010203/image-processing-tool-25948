@@ -83,4 +83,4 @@ gcc main.c image_processing.c -o imgproc -lm -O2
 - image_processing.h - заголовочный файл
 - stb_image_read.h - библиотека для чтения
 - stb_image_write.h - библиотека для записи
-
+- input.png - фото для примера
